@@ -1,0 +1,5 @@
+one dimension
+var_array = [0, 0, 0]
+
+two dimension (or plus)
+var_array = [[0,1],[2,3]]
